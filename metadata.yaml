@@ -1,0 +1,27 @@
+_repo: The-Voyage-of-the-Oregon-from-San-Francisco-to-Santiago-in-1898_25723
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cross, R.
+    gutenberg_agent_id: '31532'
+    url: http://www.gutenberg.org/2009/agents/31532
+description: ''
+gutenberg_issued: '2008-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish-American War, 1898 -- Personal narratives'
+- !lcsh 'Oregon (Battleship)'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Pacific Coast (America) -- Description and travel'
+- !lcc 'E660'
+title: The Voyage of the Oregon from San Francisco to Santiago in 1898
+url: http://www.gutenberg.org/ebooks/25723
